@@ -6,31 +6,30 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="error_config">Please set the %1$s constant and recompile the app.</string>
     <string name="already_registered">Waiting&#8230;</string>
-    <string name="gcm_registered">---通知登録に成功しました．</string>
-    <string name="gcm_unregistered">---通知登録を解除します</string>
-    <string name="gcm_message">Arksship</string>
-    <string name="gcm_error">エラーが発生しました．(%1$s).</string>
-    <string name="gcm_recoverable_error">エラーから復帰します．(%1$s).</string>
-    <string name="gcm_deleted">アークスシップからの連絡が途絶えました．．．</string>
-    <string name="server_registering">サーバーと接続中です．．．</string>
-    <string name="server_registered">アークスシップとの通信に成功しました．</string>
-    <string name="server_unregistered">アークスシップとの通信を遮断しました．</string>
-    <string name="server_register_error">どうやら通信に失敗したようです． %1$d </string>
-    <string name="server_unregister_error">どうやら遮断に失敗したようです． (%1$s)</string>
-    <string name="options_register">通知登録</string>
-    <string name="options_twitter">developer\'s twitter</string>
-    <string name="options_clear">Clear</string>
+    <string name="gcm_registered">---Notificaion registered successfully．</string>
+    <string name="gcm_unregistered">---Notification register has been removed.</string>
+    <string name="gcm_message">Arks ship</string>
+    <string name="gcm_error">An error happend．(%1$s).</string>
+    <string name="gcm_recoverable_error">Recover from the error．(%1$s).</string>
+    <string name="gcm_deleted">The connection to the Arks Ship ．．．</string>
+    <string name="server_registering">Connecting to the server．．．</string>
+    <string name="server_registered">Succeeded in the connection with the Arks Ship．</string>
+    <string name="server_unregistered">The connection with the Arks Ship has been cut off.</string>
+    <string name="server_register_error">Somehow, the connection was failed． %1$d </string>
+    <string name="server_unregister_error">Somehow, the noccection was failed due to the cut off． (%1$s)</string>
+    <string name="options_register">Register the notification</string>
+    <string name="options_twitter">Developer\'s twitter</string>
+    <string name="options_clear">Clear the notification area</string>
     <string name="options_help">Help</string>
     <string name="options_exit">Exit</string>
     <string name="options_settings">Upgrade</string>
-    <string name="button">settings save</string>
-    <string name="button_Ship">シップを選択する．</string>
-    <string name="explain">Please wait a little more because it asked the English translation.\nWarning issued at the time, notification will be sent to about 50 minutes per hour information of Twitter.
-        You may notice or delay by the situation murmur, a server, and you can not reach.Please note.</string>
-    <string name="str_how2">Take the tour</string>
-    <string name="str_how2txt">First\nPlease select the ship you want to be notified. You will receive a notification then.\n\n※ツイッター，通知サーバーの状況により緊急発生時に必ず通知が届くことをお約束できません．ご理解の上ご利用ください．</string>
+    <string name="button">Save the settings</string>
+    <string name="button_Ship">Select the ship．</string>
+    <string name="explain">Please wait a bit longer because it will be ask for the English translation.\nThe warning notification will be pushed about 10 minutes before the emergency quest. But due to many conditions, there will be a possibility to have maximum of 30 minutes in delay for the notification.</string>
+    <string name="str_how2">How to use the app</string>
+    <string name="str_how2txt">First\nPlease select the ship you want to be notified. You will receive a notification then.\n\n※But please notice, this app can't guarantee that the notification will be pushed immediately after the emergency quest is announced. The usage of this app is based on the understaning of this statement.</string>
     <string name="str_quest">Quest to notify</string>
-    <string name="msg_saves_ettings">設定を保存しました</string>
+    <string name="msg_saves_ettings">Save the settings.</string>
     <string name="ticker_msg">Conntact to ARKS Ship!</string>
     <string name="str_ship">Ship to notify</string>
     <string name="tweet_message"> #pso2eq Ship </string>
@@ -112,6 +111,7 @@
     <string name="buy_whats">"ご利用ありがとうございます．\n" 
         				 "オプションを有効にすることで\n"
 						 "●Ship multiple selection""
-						"●Non-ad Display\n"</string>
+						"●Non-ad Display\n"
+</string>
 
 </resources>
